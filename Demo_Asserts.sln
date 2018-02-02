@@ -7,6 +7,11 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Demo_Asserts", "Demo_Assert
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Demo_Asserts.Tests", "Demo_Asserts.Tests\Demo_Asserts.Tests.csproj", "{36B3C3BD-B903-432F-9837-D24EE7307F02}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{39EEBD99-541A-44EB-92B5-BC004ADA5D0B}"
+	ProjectSection(SolutionItems) = preProject
+		Instalacao.txt = Instalacao.txt
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
